@@ -1,0 +1,8 @@
+name: WeaponEnchantments
+main: me.ceramictitan.WeaponEnchantments.WeaponEnchantments
+version: 1.0.0
+description: >
+             Plugin request from FailBuilder
+commands:
+  test:
+    description: destroys logs
